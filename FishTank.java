@@ -1,5 +1,3 @@
-package JavaCoding.Fishing_Game;
-
 import java.util.ArrayList;
 
 public class FishTank {
