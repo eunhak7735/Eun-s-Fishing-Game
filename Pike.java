@@ -1,5 +1,3 @@
-package JavaCoding.Fishing_Game;
-
 public class Pike extends Fish {
     private String species;
 
