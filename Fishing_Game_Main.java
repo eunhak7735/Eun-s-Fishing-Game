@@ -1,6 +1,3 @@
-
-package JavaCoding.Fishing_Game;
-
 import java.util.Scanner;
 import java.io.FileWriter;
 import java.io.IOException;
