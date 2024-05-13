@@ -1,5 +1,3 @@
-package JavaCoding.Fishing_Game;
-
 public class Smallmouth extends Fish{
     private String species;
 
